@@ -1,0 +1,8 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" id="blobSvg">
+  <defs>
+    <clipPath id="shape">
+      <path id="blob" d="M476,307.5Q468,365,428,407Q388,449,334,472Q280,495,221,488Q162,481,121.5,440.5Q81,400,47.5,354Q14,308,15.5,250.5Q17,193,42,140Q67,87,116,56.5Q165,26,221.5,24Q278,22,328,43Q378,64,414.5,104Q451,144,467.5,197Q484,250,476,307.5Z" fill="none" stroke-width="7px" stroke="#d1d8e0"></path>
+    </clipPath>
+  </defs>
+  <image x="0" y="0" width="100%" height="100%" clip-path="url(#shape)" xlink:href="https://1.bp.blogspot.com/-6IeK0nLjKlw/YP-xXH8KqeI/AAAAAAAABGQ/lL2is61dFB8b84aanIo5QUSZ8hpAcO1tQCLcBGAsYHQ/s2048/animated_adfer.jpeg" preserveAspectRatio="none"></image>
+</svg>
